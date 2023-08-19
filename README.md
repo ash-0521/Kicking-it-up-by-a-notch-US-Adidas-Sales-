@@ -1,2 +1,2 @@
-# Kicking-it-up-by-a-notch-US-Adidas-Sales-
-This Python project utilizes pandas, numpy, seaborn, matplotlib, and plotly to analyze the Adidas sales dataset. By generating impactful visualizations and uncovering sales trends and correlations, the project aids retail stakeholders in making informed decisions.
+# Kicking It Up a Notch: A Data-Driven Study of Adidas' Sales Performance in America
+This Python project aims to provide a comprehensive visualization and analysis of the Adidas sales dataset. By leveraging the power of Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Plotly, we will generate meaningful insights and visually appealing representations of the data. The project's outcome will be a valuable resource for retailers, sales teams, and stakeholders in the retail industry to make data-driven decisions, identify areas for improvement, and optimize sales strategies.
